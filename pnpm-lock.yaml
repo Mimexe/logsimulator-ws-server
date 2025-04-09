@@ -17,7 +17,7 @@ importers:
         version: 22.14.0
       typescript:
         specifier: ^5.5.4
-        version: 5.7.2
+        version: 5.8.3
 
 packages:
 
@@ -96,8 +96,8 @@ packages:
     resolution: {integrity: sha512-oZ7iUCxph8WYRHHcjBEc9unw3adt5CmSNlppj/5Q4k2RIrhl8Z5yY2Xr4j9zj0+wzVZ0bxmYoGSzKJnRl6A4yg==}
     engines: {node: '>=10.2.0'}
 
-  typescript@5.7.2:
-    resolution: {integrity: sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==}
+  typescript@5.8.3:
+    resolution: {integrity: sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -213,7 +213,7 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  typescript@5.7.2: {}
+  typescript@5.8.3: {}
 
   undici-types@6.21.0: {}
 
