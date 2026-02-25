@@ -10,11 +10,11 @@
   "author": "Mime",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.8.3"
   },
   "type": "module",
   "devDependencies": {
-    "@types/node": "^24.0.0",
-    "typescript": "^5.5.4"
+    "@types/node": "^24.10.13",
+    "typescript": "^5.9.3"
   }
 }
